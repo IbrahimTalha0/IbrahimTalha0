@@ -18,8 +18,8 @@ I also work as a FreeLancer.
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" alt="IbrahimTalha0" width:"22px" src = "https://simpleicons.org/icons/instagram.svg">][instagram]
-[<img align="left" alt="IbrahimTalha0" width:"22px" src = "https://simpleicons.org/icons/gmail.svg">][gmail]
+[<img align="left"  alt="instagram | Instagram" width:"22px" src = "https://simpleicons.org/icons/instagram.svg">][instagram]
+[<img align="left" alt="gmail | Gmail"  width:"22px" src = "https://simpleicons.org/icons/gmail.svg">][gmail]
 
 <br />
 
