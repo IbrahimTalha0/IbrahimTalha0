@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
 
-## What we are doing now⏲:
+## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
 I also work as a FreeLancer.
 
 <br />
 
-### Connect with me:
+### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
@@ -37,7 +37,7 @@ I also work as a FreeLancer.
 <br />
 <br />
 
-## My Released Applications👩‍💻📱
+## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
 
 
@@ -46,7 +46,7 @@ I also work as a FreeLancer.
 <br />
 <br />
 <br />
-<br />
+
 
 ### 📊 GitHub Analytics
 
