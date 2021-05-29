@@ -47,7 +47,7 @@ I also work as a FreeLancer.
 ### 📊 GitHub Analytics
 
 <a href="https://github.com/IbrahimTalha0">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimTalha0&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimTalha0&hide=stars,prs,issues,contribs&show_icons=true&locale=en&theme=highcontrast&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 </a>
 
