@@ -1,7 +1,7 @@
-## I'm a Student, Full Stack Developer 🚀, Writer and Teacher!
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨 
+- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
@@ -10,7 +10,7 @@
 ## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer.
+I also work as a FreeLancer 🆓.
 
 <br />
 
@@ -23,7 +23,7 @@ I also work as a FreeLancer.
 
 <br />
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
