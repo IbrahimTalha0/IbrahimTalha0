@@ -5,13 +5,12 @@
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
-
+<br />
 ## What we are doing now⏲:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
 I also work as a FreeLancer.
 
-<br />
 <br />
 
 ### Connect with me:
