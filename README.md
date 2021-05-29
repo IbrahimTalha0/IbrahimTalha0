@@ -12,9 +12,7 @@
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
 I also work as a FreeLancer.
-
 <br />
-
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
