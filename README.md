@@ -12,6 +12,8 @@ I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍�
 I also work as a FreeLancer.
 
 <br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +35,7 @@ I also work as a FreeLancer.
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
 <br />
-
+<br />
 
 ## My Released Applications👩‍💻📱
 <a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
