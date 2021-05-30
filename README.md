@@ -38,16 +38,9 @@ I also work as a FreeLancer 🆓.
 <br />
 
 ### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem1-theta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-  </td>
-  <td width="50%">
-
-[![Spotify](https://ibrahimtalha0.vercel.app/api/spotify)](https://open.spotify.com/user/u5k3n1rqwb2denqxlbc6hvq61)
 
 <br />
 <br />
