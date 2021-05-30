@@ -37,6 +37,12 @@ I also work as a FreeLancer 🆓.
 <br />
 <br />
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-ibrahimtalha0.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/u5k3n1rqwb2denqxlbc6hvq61)
+
+<br />
+<br />
+
 ## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
 
