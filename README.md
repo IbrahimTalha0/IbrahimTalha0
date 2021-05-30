@@ -41,7 +41,6 @@ I also work as a FreeLancer 🆓.
       
 &nbsp; <br> [![Spotify](https://novatorem1-theta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-<br />
 
 ## My Released Applications 👩‍💻📱
 <a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
