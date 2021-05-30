@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
 
-## What we are doing now ⏲:
+## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
 I also work as a FreeLancer 🆓.
 
 <br />
 
-### Connect with me 📩:
+### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
@@ -23,7 +23,7 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-### Languages and Tools 🔧:
+### 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -37,12 +37,12 @@ I also work as a FreeLancer 🆓.
 <br />
 <br />
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing 
       
 &nbsp; <br> [![Spotify](https://novatorem1-theta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 
-## My Released Applications 👩‍💻📱
+## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
 
 
