@@ -40,6 +40,8 @@ I also work as a FreeLancer 🆓.
 ### Spotify Playing 🎧
 [<img src="https://ibrahimtalha0.vercel.app/api/spotify" alt="Spotify Spotify Playing" width="350" />](https://open.spotify.com/user/u5k3n1rqwb2denqxlbc6hvq61)
 
+[![Spotify](https://ibrahimtalha0.vercel.app/api/spotify)](https://open.spotify.com/user/u5k3n1rqwb2denqxlbc6hvq61)
+
 <br />
 <br />
 
