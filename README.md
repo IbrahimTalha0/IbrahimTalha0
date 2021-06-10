@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://cybermap.kaspersky.com/tr/widget/dynamic/dark" width="500" height="320" />
+<img align="right" src="https://cybermap.kaspersky.com/tr/widget/dynamic/dark" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
