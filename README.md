@@ -26,8 +26,8 @@ Check my Linkedin Account 🙃
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/48168dc3cb093fba153af35248e1a54db5b08494/public/icons/linkedin/linkedin.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://bgcp.bionluk.com/images/avatar/200x200/9b7dd049-410f-409f-9778-da05a21fbe14.png" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/48168dc3cb093fba153af35248e1a54db5b08494/public/icons/instagram/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/48168dc3cb093fba153af35248e1a54db5b08494/public/icons/gmail/gmail.svg" />][gmail]
 <!--
 <br />
 
