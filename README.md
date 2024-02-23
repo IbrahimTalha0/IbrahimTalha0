@@ -2,7 +2,7 @@
 # I'm a University Student 👨‍🎓 and Mobile Application Developer 🚀
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNwOGlpMzk4Zngzb2JpaXJpNXZsaGVhcjZ6Nm12cHl2NnAxcmR5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="500" height="320" />
 <ul>
- <li> 👨🏻‍🎓 I'm 18 years old and currently a student of Software Engineering at Middle East Technical University. </li>
+ <li> 👨🏻‍🎓 I'm 18 years old and currently preparatory class(English) student in the Department of Software Engineering at Middle East Technical University. </li>
  <li> 🌱 I have learned, I am still learning, I will learn. </li>
  <li> 💙 I'm a Flutter developer. </li>
  <li> 🎊 Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️ </li>
