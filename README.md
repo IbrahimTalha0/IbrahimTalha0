@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNwOGlpMzk4Zngzb2JpaXJpNXZsaGVhcjZ6Nm12cHl2NnAxcmR5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="500" height="320" />
 
 <ul>
- <li>🎓 I’m a 20-year-old First Year Software Engineering student at METU Northern Cyprus Campus.</li>
  <li>🚀 I'm a tech entrepreneur focused on building scalable, user-oriented digital products.</li>
  <li>📱 Flutter developer with a background in mobile team leadership and project management.</li>
  <li>♟️ Passionate about chess (20+ medals), basketball, swimming, and cycling.</li>
